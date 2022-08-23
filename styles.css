@@ -1,0 +1,42 @@
+* {
+    padding: auto;
+    margin: 5px;
+    background-color: darkslategrey;
+    color:floralwhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    padding: auto;
+    margin: none;
+    margin-top: 20px;
+    text-align: center;
+}
+
+a:hover {
+    color: darkgoldenrod;
+}
+
+a:visited {
+    color:chocolate;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+header p {
+    text-align: center;
+    padding: 20px;
+}
